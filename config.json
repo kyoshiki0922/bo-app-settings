@@ -7,6 +7,7 @@
     "https://www.youtube.com/watch?v=lVlgDaoyelI",
     "https://www.youtube.com/watch?v=y8YQq-cWYlw"
   ],
-  "telop_color": "#ffd700",
+  "telop_color": "#58a6ff",
+  "telop_font_size": 20,
   "telop_link_url": "https://jp.theoption.com/login"
 }
