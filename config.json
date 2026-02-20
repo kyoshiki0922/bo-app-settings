@@ -2,9 +2,11 @@
   "line_url": "https://lin.ee/aU6DtyW",
   "video_urls": [
     "https://www.youtube.com/watch?v=gZOjREx4hLU",
-    "https://www.youtube.com/watch?v=JjGt1NMK4Eg&list=RDJjGt1NMK4Eg&start_radio=1",
+    "https://www.youtube.com/watch?v=JJgt1NMK4Eg",
     "https://www.youtube.com/watch?v=B7Ky_pBw060",
-    "https://www.youtube.com/watch?v=lvigDaoyelI&list=RDlvigDaoyelI&start_radio=1",
+    "https://www.youtube.com/watch?v=lVlgDaoyelI",
     "https://www.youtube.com/watch?v=y8YQq-cWYlw"
-  ]
+  ],
+  "telop_color": "#58a6ff",
+  "telop_link_url": "https://jp.theoption.com/login"
 }
