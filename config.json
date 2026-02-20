@@ -1,5 +1,6 @@
 {
   "line_url": "https://lin.ee/aU6DtyW",
+  "free_tool_url": "https://ここに無料ツールまとめサイトのURL",
   "video_urls": [
     "https://www.youtube.com/watch?v=gZOjREx4hLU",
     "https://www.youtube.com/watch?v=JJgt1NMK4Eg",
@@ -7,8 +8,8 @@
     "https://www.youtube.com/watch?v=lVlgDaoyelI",
     "https://www.youtube.com/watch?v=y8YQq-cWYlw"
   ],
-  "telop_color": "#da3633",
-  "telop_font_size": 12,
+  "telop_color": "#58a6ff",
+  "telop_font_size": 10,
   "telop_link_url": "https://jp.theoption.com/login",
   "telop_message": "【ヨシキからの通知】月利３２％の新しい無料プレゼントのお知らせ"
 }
